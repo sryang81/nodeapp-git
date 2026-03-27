@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - sryangkorea/nodeapp-git:1.2.0
